@@ -1,11 +1,28 @@
-# Getting Started with Create React App
+# Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created as part of my capstone at Ada Academy. The aim was to create a supportive environment for budding chefs to have a platform to sell their meals. 
 
-## Available Scripts
+The project has 3 main components:
+- Landing page to order meals
+- Checkout page for customers to order meals
+- Sign up page for chefs to join our community and upload their menu
 
-In the project directory, you can run:
 
+# Technologies used in the project
+- React framework
+- Javascript
+- Firebase Database and Server
+
+
+## Installation
+git clone <remote url copied from Github>
+cd <repo directory name>
+
+
+Use the package manager pip to install all dependencies!
+pip install -r requirements.txt
+
+In the project directory, you can then run:
 ### `npm start`
 
 Runs the app in the development mode.\
