@@ -18,10 +18,6 @@ The project has 3 main components:
 git clone <remote url copied from Github>
 cd <repo directory name>
 
-
-Use the package manager pip to install all dependencies!
-pip install -r requirements.txt
-
 In the project directory, you can then run:
 ### `npm start`
 
