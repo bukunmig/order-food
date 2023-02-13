@@ -1,0 +1,15 @@
+.formDesign{
+    text-align:left;
+    border-bottom: 2px solid #8a2b06;
+    padding: 1rem 0;
+    margin: 1rem 0;
+}
+
+.background {
+    padding: 1rem;
+    border-radius: 10px;
+    background-color: white;
+    max-width: 60rem;
+    width: 90%;
+    margin: 2rem auto;
+  }
